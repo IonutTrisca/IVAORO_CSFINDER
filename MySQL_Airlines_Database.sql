@@ -1,4 +1,4 @@
-CREATE TABLE IF NOT EXISTS airlineCallsigns (
+CREATE TABLE IF NOT EXISTS airlines(
 id INT NULL PRIMARY KEY,
 iata VARCHAR(5) NULL,
 icao VARCHAR(3) NULL,
@@ -7,7 +7,7 @@ callsign VARCHAR(23) NULL,
 country VARCHAR(37) NULL
 );
 
-INSERT INTO airlineCallsigns VALUES
+INSERT INTO airlines VALUES
 (1,"","EVY","34 Squadron\, Royal Australian Air Force","","Australia"),
 (2,"","GNL","135 Airways","GENERAL","United States"),
 (3,"1T","","Hitit Computer Services","","Turkey"),
