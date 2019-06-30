@@ -20,7 +20,7 @@
 			<button class="sub_button">Search</button>
 		</form>
 
-		<a href="https://ro.ivao.aero/" target="_blank"><img class="logo" src="https://ivao.aero/images/svg_logos/ro.svg"/></a>
+		<img class="logo" src="https://ivao.aero/images/svg_logos/ro.svg"/>
 
 		<footer>
 			<big class="padded">

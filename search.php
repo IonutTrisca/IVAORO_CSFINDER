@@ -70,7 +70,7 @@
 		<a href="index.php" ><button class="sub_button">Back</button></a>
 		<br>
 
-		<a href="https://ro.ivao.aero/" target="_blank"><img class="logo" src="https://ivao.aero/images/svg_logos/ro.svg"/></a>
+		<img class="logo" src="https://ivao.aero/images/svg_logos/ro.svg"/>
 
 		<footer>
 			<big class="padded">
