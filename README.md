@@ -15,6 +15,8 @@ Here you have to change the parameters yourUsername, yourPassword, yourHost and 
 
 The next and final step is to import the values from **MySQL_Airlines_Database.sql** into your database.
 
+The default file is **index.php**.
+
 ## Authors
 
 * **Ionut Trisca**
