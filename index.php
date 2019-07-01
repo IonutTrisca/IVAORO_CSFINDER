@@ -16,7 +16,7 @@
 		</nav>
 
 		<form action="./search.php" method="get">
-			<input placeholder="3 Letter ICAO Code" type="text" name="code" class="code" autocomplete="off">
+			<input placeholder="ICAO or IATA Code" type="text" name="code" class="code" autocomplete="off">
 			<button class="sub_button">Search</button>
 		</form>
 

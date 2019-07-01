@@ -33,6 +33,7 @@
 				$query = $dbc -> query("
 					SELECT callsign, airline FROM airlines
 					WHERE icao like UPPER('{$code}')
+					or iata like UPPER('{$code}')
 				");
 
 				//check if the code was found
