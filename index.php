@@ -3,19 +3,19 @@
 	<head>
 		<meta charset="UTF-8"/>
 		<meta name="viewport" content="width = device-width, initial-scale = 1"/>
-		<title>Airline Callsign Finder</title>
+		<title>Callsign Finder</title>
 		<link href="./mainStyle.css" rel="stylesheet" type="text/css">
-		<link rel="icon" href="https://i.imgur.com/73BPpQi.png">
+		<link rel="icon" href="./favicon.png">
 	</head>
 
 	<body>
 		<nav class="top_menu">
 			<div class="textlogo">
-				<h1><a href="index.php">Callsign Finder</a></h1>
+				<h1><a href="./index.php">Callsign Finder</a></h1>
 			</div>
 		</nav>
 
-		<form action="search.php" method="get">
+		<form action="./search.php" method="get">
 			<input placeholder="3 Letter ICAO Code" type="text" name="code" class="code" autocomplete="off">
 			<button class="sub_button">Search</button>
 		</form>

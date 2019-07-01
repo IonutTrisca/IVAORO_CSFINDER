@@ -15,7 +15,7 @@
     box-sizing: border-box;
     border: 2px solid #8842d5;
     border-radius: 5px;
-    background-image: url('https://i.imgur.com/rhYXgAQ.png');
+    background-image: url('./search.png');
     background-size: 15px;
     background-position: 9px 10px;
     background-repeat: no-repeat;
@@ -86,16 +86,15 @@ nav a {
     color: #ededf4;
     font-family: Helvetica;
     font-size: 30px;
-    padding-top: 15px;
+    padding-top: 18px;
 }
 
 nav h1 {
-    padding-top: 16px;
+    padding-top: 18px;
 }
 
 .textlogo {
     width: 250px;
     height: 70px;
     margin: auto;
-    vertical-align: middle;
 }
