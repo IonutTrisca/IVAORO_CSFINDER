@@ -21,7 +21,7 @@
 		</form>
 
 		<img class="logo" src="https://ivao.aero/images/svg_logos/ro.svg"/>
-
+		<!--commt-->
 		<footer>
 			<big class="padded">
 				&copy; Copyright <script>document.write(new Date().getFullYear())</script>,
