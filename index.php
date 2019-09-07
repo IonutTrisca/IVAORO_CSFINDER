@@ -27,5 +27,6 @@
 				<a href="https://ro.ivao.aero" target="_blank"> IVAO Romania</a>
 			</big>
 		</footer>
+		
 	</body>
 </html>
